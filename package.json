@@ -8,7 +8,9 @@
   },
   "dependencies": {
     "express": "^4.18.2",
-    "multer": "^1.4.5-lts.1"
+    "multer": "^1.4.5-lts.1",
+    "uuid": "^9.0.0",
+    "axios": "^1.6.0"
   },
   "engines": {
     "node": ">=14"
@@ -17,3 +19,4 @@
   "author": "BobtheBuilder418",
   "license": "MIT"
 }
+
